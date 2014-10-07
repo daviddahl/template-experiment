@@ -1,0 +1,10 @@
+Following files under Apache License 2.0 from https://code.google.com/p/js-quasis-libraries-and-repl/
+thanks to mikesamuel(at)gmail.com
+
+contextDefs.js    contextUpdate.js  escapers.js     safehtml.js       
+
+
+
+evil.txt sourced from DOMPurify test/expect.json under Mozilla Public License with thanks to cure53
+https://github.com/cure53/DOMPurify
+
